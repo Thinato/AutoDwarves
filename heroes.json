@@ -1,0 +1,81 @@
+{
+    "dwarven_miner": 
+    {
+        "name":"Miner",
+        "health": 220,
+        "mana": 120,
+        "armor": 15,
+        "damage": 20,
+        "struct_damage": 20,
+        "img_path": "dwarven_miner"
+    },
+    "dwarven_rugnur": 
+    {
+        "name":"Rugnur",
+        "health": 275,
+        "mana": 120,
+        "armor": 15,
+        "damage": 25,
+        "struct_damage": 20,
+        "img_path": "dwarven_rugnur"
+    },
+    "dwarven_runesmith": 
+    {
+        "name":"Runesmith",
+        "health": 180,
+        "mana": 120,
+        "armor": 15,
+        "damage": 20,
+        "struct_damage": 20,
+        "img_path": "dwarven_runesmith"
+    },
+    "dwarven_scout": 
+    {
+        "name":"Scout",
+        "health": 220,
+        "mana": 120,
+        "armor": 15,
+        "damage": 20,
+        "struct_damage": 20,
+        "img_path": "dwarven_scout",
+        "range": 150,
+        "speed": 60,
+        "atk_speed": 800
+    },
+    "dwarven_thane": 
+    {
+        "name":"Thane",
+        "health": 320,
+        "mana": 120,
+        "armor": 15,
+        "damage": 30,
+        "struct_damage": 20,
+        "img_path": "dwarven_thane",
+        "speed": 25
+    },
+    "dwarven_thunderer": 
+    {
+        "name":"Thunderer",
+        "health": 100,
+        "mana": 120,
+        "armor": 15,
+        "damage": 30,
+        "struct_damage": 20,
+        "img_path": "dwarven_thunderer",
+        "range": 300,
+        "speed": 25,
+        "atk_speed": 1600
+    },
+    "dwarven_warrior": 
+    {
+        "name":"Warrior",
+        "health": 240,
+        "mana": 120,
+        "armor": 15,
+        "damage": 30,
+        "struct_damage": 20,
+        "img_path": "dwarven_warrior"
+
+    }
+
+}
